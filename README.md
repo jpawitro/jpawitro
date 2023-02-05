@@ -4,4 +4,4 @@ My name is **Joko**, I'm an asset engineer, I do _data science_, _engineering_, 
 
 My favourite tools are
 
-Connect with me throgh [![LinkedIn Badge](https://linkedin.com/in/jpawitro)] or ([te.m](https://t.me/pakjoko_bot))
+Connect with me throgh [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jpawitro) or ([te.m](https://t.me/pakjoko_bot))
