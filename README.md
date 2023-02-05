@@ -1,10 +1,10 @@
 ### Helo there 👋
 
-My name is **Joko**, I'm an asset engineer, I do _data science_, _engineering_, _technology implementation_ and _business analysis_ in the field of **asset lifecycle management**.
+My name is **Joko**, I'm an asset engineer, I do _data science_, _engineering_, _technology implementation_ and _business analysis_ in the field of **asset lifecycle management**. Back in the early 2000's I learned Q-basic, a bit of Pascal, and Delphi now ended up with Python and Matlab as my primary tools. I am keen to learn and discuss mathematical modeling, computational engineering, data science, automation, and business analysis, so feel free to connect with me.
 
 Tools that I utilized are:
 
-[![Pyhon Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
+[![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
 [![Numpy Badge](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Scipy Badge](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)](https://scipy.org/)
 [![Sklearn Badge](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
