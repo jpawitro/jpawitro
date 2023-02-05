@@ -1,4 +1,4 @@
-### Helo there 👋
+### Hello there 👋
 
 My name is **Joko**, I'm an asset engineer, I do _data science_, _engineering_, _technology implementation_ and _business analysis_ in the field of **asset lifecycle management**. Back in the early 2000's I learned Q-basic, a bit of Pascal, and Delphi now ended up with Python and Matlab as my primary tools. I am keen to learn and discuss mathematical modeling, computational engineering, data science, automation, and business analysis, so feel free to connect with me.
 
