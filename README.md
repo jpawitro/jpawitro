@@ -7,7 +7,7 @@ Back in the early 2000's I learned Q-basic, a bit of Pascal, and Delphi now ende
 Tools that I utilized are:
 
 [![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
-[![Matlab Badge](https://img.shields.io/badge/Mathworks-FFFFFF?style=for-the-badge&logo=matlab&logoColor=0679EA)](https://www.mathworks.com/products/matlab.html)
+[![Matlab Badge](https://img.shields.io/badge/Matlab-FFFFFF?style=for-the-badge&logo=mathworks&logoColor=0679EA)](https://www.mathworks.com/products/matlab.html)
 [![Numpy Badge](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Scipy Badge](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)](https://scipy.org/)
 [![Sklearn Badge](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
