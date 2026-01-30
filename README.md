@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-My name is **Joko**, I do mechanical-electrical engineering analysis, data science, multiphysics simulation and business analytics.
+My name is **Joko**, I do multidisciplinary engineering analysis, data science, multiphysics simulation and business analytics.
 
 Tools that I utilize are:
 
